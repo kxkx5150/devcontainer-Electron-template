@@ -11,6 +11,8 @@ React
 
 <br><br>
 
+### X11
+
 windows 10, 11 (wsl2 + wslg)  
 ubuntu
 
